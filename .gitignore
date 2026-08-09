@@ -1,0 +1,8 @@
+*.osc
+*.cfg
+*.bus
+*.html
+Script*/*
+OMSI-RHLib/*
+.roo
+docs/*
