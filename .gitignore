@@ -4,6 +4,7 @@
 *.html
 *.sco
 Script/*
+.gitignore_folder/*
 Script2 (1)/*
 OMSI-RHLib/*
 .roo
