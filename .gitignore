@@ -2,7 +2,9 @@
 *.cfg
 *.bus
 *.html
-Script*/*
+*.sco
+Script/*
+Script2 (1)/*
 OMSI-RHLib/*
 .roo
 docs/*
