@@ -75,3 +75,15 @@ by static reading alone. In particular:
 - Where a skill cannot verify a claim from the evidence actually available, it says so
   explicitly and asks for the missing file (typically the target `.bus`, `.sco`, or
   `model*.cfg`) rather than asserting behavior.
+
+
+## Sources
+https://github.com/Road-hog123/OMSI-RHLib
+http://wiki.omnibussimulator.de/omsiwikineu.de/index.php?title=Scriptsystem
+http://wiki.omnibussimulator.de/omsiwikineu.de/index.php?title=Fahrzeugleistung_anpassen
+http://wiki.omnibussimulator.de/omsiwikineu.de/index.php?title=System-Trigger
+http://wiki.omnibussimulator.de/omsiwikineu.de/index.php?title=System-Makros
+http://wiki.omnibussimulator.de/omsiwikineu.de/index.php?title=System-_und_vordefinierte_lokalen_Variablen
+https://reboot.omsi-webdisk.de/wiki/entry/120-script-system/
+https://fellowsfilm.com/threads/omsi-2-osc-programming-language-for-custom-sound-script.17034/
+https://cdlbt.co/tutorials/freetex
