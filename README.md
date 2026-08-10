@@ -78,12 +78,13 @@ by static reading alone. In particular:
 
 
 ## Sources
-https://github.com/Road-hog123/OMSI-RHLib
-http://wiki.omnibussimulator.de/omsiwikineu.de/index.php?title=Scriptsystem
-http://wiki.omnibussimulator.de/omsiwikineu.de/index.php?title=Fahrzeugleistung_anpassen
-http://wiki.omnibussimulator.de/omsiwikineu.de/index.php?title=System-Trigger
-http://wiki.omnibussimulator.de/omsiwikineu.de/index.php?title=System-Makros
-http://wiki.omnibussimulator.de/omsiwikineu.de/index.php?title=System-_und_vordefinierte_lokalen_Variablen
-https://reboot.omsi-webdisk.de/wiki/entry/120-script-system/
-https://fellowsfilm.com/threads/omsi-2-osc-programming-language-for-custom-sound-script.17034/
-https://cdlbt.co/tutorials/freetex
+
+* **[OMSI-RHLib GitHub Repository](https://github.com/Road-hog123/OMSI-RHLib)**
+* **[OMSI Wiki: Scriptsystem](http://wiki.omnibussimulator.de/omsiwikineu.de/index.php?title=Scriptsystem)**
+* **[OMSI Wiki: Fahrzeugleistung anpassen](http://wiki.omnibussimulator.de/omsiwikineu.de/index.php?title=Fahrzeugleistung_anpassen)**
+* **[OMSI Wiki: System-Trigger](http://wiki.omnibussimulator.de/omsiwikineu.de/index.php?title=System-Trigger)**
+* **[OMSI Wiki: System-Makros](http://wiki.omnibussimulator.de/omsiwikineu.de/index.php?title=System-Makros)**
+* **[OMSI Wiki: System- und vordefinierte lokale Variablen](http://wiki.omnibussimulator.de/omsiwikineu.de/index.php?title=System-_und_vordefinierte_lokalen_Variablen)**
+* **[OMSI Webdisk Wiki: Script System](https://reboot.omsi-webdisk.de/wiki/entry/120-script-system/)**
+* **[FellowsFilm: OMSI 2 OSC Programming Language for Custom Sound/Script](https://fellowsfilm.com/threads/omsi-2-osc-programming-language-for-custom-sound-script.17034/)**
+* **[CDLBT Tutorials: Freetex](https://cdlbt.co/tutorials/freetex)**
