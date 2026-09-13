@@ -12,8 +12,9 @@ variables, predefined local variables, and user-declared local variables) and th
 triggers (keyboard/mouse-driven, and system-driven). This skill covers declaring and using
 those correctly, and handling the documented system trigger callbacks.
 
-**REQUIRED BACKGROUND:** Load `omsi/foundations` first for the underlying access syntax
-(`(L.S.)`, `(L.L.)`, `(S.L.)`, `(L.$.)`, `(S.$.)`) and case-sensitivity rules.
+**REQUIRED BACKGROUND:** Load `omsi/foundations` for syntax mechanics and
+`omsi/system-reference` for the exhaustive list of system variables, predefined local
+variables, system macros, system triggers, and read/write directions.
 
 ## Scope
 

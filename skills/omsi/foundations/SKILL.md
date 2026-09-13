@@ -12,6 +12,7 @@ language with separate float and string stacks, eight numeric registers, case-se
 identifiers, and a call-before-definition rule for macros. This skill covers the language
 mechanics every other OMSI skill in this package depends on. Load it first whenever an
 edit touches script syntax, then load the specialized skill for the task.
+For exact signatures, operators, and variable dictionaries, load `omsi/system-reference`.
 
 Source authority: the OMSIWiki "Scripting System" reference article is the primary source
 for the rules below. A modern restatement of the same rules (checked for agreement) is used
